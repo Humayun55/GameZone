@@ -1,2 +1,2 @@
-amzn://apps/android?initiatePurchaseFlow=true&asin=B0FXXSDCLF
-amzn://apps/android?initiatePurchaseFlow=true&asin=B0FXXSDCLF
+amzn://apps/android?initiatePurchaseFlow=true&asin=B0FLSZN7K3
+amzn://apps/android?initiatePurchaseFlow=true&asin=B0FVGJJJRZ
